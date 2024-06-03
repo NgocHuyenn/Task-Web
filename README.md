@@ -25,4 +25,4 @@ python -u "Taskmanager.py"
 
 - **Get Tasks**: Display all tasks.
 - **Add Task:** Add a new task.
--** Delete Task:** Delete an existing task from the list.
+- **Delete Task:** Delete an existing task from the list.
